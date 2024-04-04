@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wijdane aassouss" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="wijdane aassouss" height="35" /></a>
+<a href="https://linkedin.com/in/wijdaneaassouss" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="wijdane aassouss" height="35" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
